@@ -10,3 +10,13 @@ The face recognition pipeline is a crucial component of the larger project, resp
 
 The related slides are shown below.
 
+![slide 1](https://github.com/Honglin-Li/face-recognition/assets/63659361/79786a8a-1f2b-4625-a2a9-4bab9096fd53)
+
+
+![slide 2](https://github.com/Honglin-Li/face-recognition/assets/63659361/e6905c79-b39a-42b1-9aaf-ce6fd3b7aee5)
+
+
+![slide 3](https://github.com/Honglin-Li/face-recognition/assets/63659361/7ceff68e-1e0e-448d-a1c6-191f28bb890a)
+
+
+![slide 4](https://github.com/Honglin-Li/face-recognition/assets/63659361/f13e0f7b-47d2-4eec-bd38-63d24327b95f)
