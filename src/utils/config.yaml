@@ -1,0 +1,21 @@
+rdf:
+  uri: http://localhost/
+
+memory:
+  path: models/example_graph
+
+face-recognition:
+  device: cpu
+  thumbnails: data/thumbnails/thumbnails
+  labels: data/embeddings/labels.pickle
+  embeddings: data/embeddings/embeddings.pickle
+  img-width: 500
+  encoder: ArcFace
+  algorithm: appr
+  method: hnsw
+  space: cosinesimil
+  distance-threshold: 0.6
+  index: models/index.bin
+  k: 1
+  by: second
+  postprocessing-threshold: 2
